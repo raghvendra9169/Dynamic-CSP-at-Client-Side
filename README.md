@@ -1,1 +1,1 @@
-# Dynamic-CSP-at-Client-Side
+# Dynamic Content Security Policy Generation at Client-Side toMitigate XSS Attacks
